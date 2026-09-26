@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.bin
+*.elf
+*.map
+stock_backup*.bin
+build/
+.cache/
+__pycache__/
